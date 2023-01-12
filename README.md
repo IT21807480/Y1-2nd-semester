@@ -8,7 +8,7 @@
 ## Member 3      - IT21808166 - Yashodara walikalage
 
 
-## Brief description about project:
+## Brief description of project:
 
 
 
